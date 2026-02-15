@@ -36,4 +36,4 @@ Organização visual estratégica
 Baixe o arquivo .xlsx
 Abra no Microsoft Excel
 Navegue até a aba do Dashboard
-Utilize os filtros e segmentações para interagir com os dados
+Utilize os filtros e segmentações para interagir com os dados.
