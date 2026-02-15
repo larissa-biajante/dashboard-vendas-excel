@@ -6,6 +6,7 @@ Este projeto consiste no desenvolvimento de um Dashboard de Vendas no Excel, com
 O objetivo principal é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficiente do desempenho de vendas e apoiando a tomada de decisões baseadas em dados.
 A solução foi construída utilizando recursos do Excel voltados para análise de dados, organização estrutural e visualização interativa.
 
+
 🎯 Objetivos
 
 Organizar dados de vendas em uma base estruturada
@@ -17,6 +18,7 @@ Desenvolver visualizações claras e objetivas
 Facilitar a análise de resultados
 
 Aplicar boas práticas de construção de dashboards
+
 
 📊 Indicadores Apresentados
 
@@ -32,6 +34,7 @@ Comparação de desempenho
 
 Representação gráfica dos dados
 
+
 🛠️ Recursos Utilizados
 
 Tabelas estruturadas
@@ -45,6 +48,7 @@ Segmentação de dados
 Fórmulas estatísticas
 
 Organização visual estratégica
+
 
 🚀 Como Visualizar
 
