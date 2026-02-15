@@ -7,6 +7,7 @@ O objetivo principal é transformar dados brutos em informações visuais claras
 A solução foi construída utilizando recursos do Excel voltados para análise de dados, organização estrutural e visualização interativa.
 
 
+
 🎯 Objetivos
 
 Organizar dados de vendas em uma base estruturada
@@ -18,6 +19,7 @@ Desenvolver visualizações claras e objetivas
 Facilitar a análise de resultados
 
 Aplicar boas práticas de construção de dashboards
+
 
 
 📊 Indicadores Apresentados
@@ -35,6 +37,7 @@ Comparação de desempenho
 Representação gráfica dos dados
 
 
+
 🛠️ Recursos Utilizados
 
 Tabelas estruturadas
@@ -48,6 +51,7 @@ Segmentação de dados
 Fórmulas estatísticas
 
 Organização visual estratégica
+
 
 
 🚀 Como Visualizar
